@@ -10,7 +10,7 @@ I'm a **Senior DevOps Engineer / Cloud Solutions Architect** based in Ottawa, Ca
 - 🤖 Building: **agentic systems, RAG, and evaluation harnesses** — see [Production-grade AI agents](https://lucianomori.cloud/writing/grok-bot-zero-ops/)
 - 🛡️ Security: **SAST, IaC scanning, supply-chain hardening, securing AI-generated code** — represented Snyk at **Black Hat USA 2025**
 - 💸 FinOps: **autoscaling, token and infrastructure budgets, cost-efficient cloud foundations**
-- 📫 How to reach me: **[redacted]**, [LinkedIn](https://www.linkedin.com/in/lucianosmori/), or [book 30 min](https://calendly.com/lucianomori-info/30min)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucianosmori/), or [book 30 min](https://calendly.com/lucianomori-info/30min)
 - 🗓️ Available for selected forward-deployed engagements through **Q4 2026**
 - ⚡ Fun fact: **I am Canadian/Argentine**
 
